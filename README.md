@@ -15,7 +15,7 @@ m <some_command>
 Clone this repo
 
 ```sh
-http://github.com/oshabashov/anybar-bash.git
+https://github.com/o-shabashov/anybar-bash.git
 ```
 
 Add to .bashrc
